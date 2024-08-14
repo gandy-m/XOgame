@@ -1,0 +1,3 @@
+C:/Users/vmatv/CLionProjects/XOgame/cmake-build-debug/CMakeFiles/XOgame.dir
+C:/Users/vmatv/CLionProjects/XOgame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vmatv/CLionProjects/XOgame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
